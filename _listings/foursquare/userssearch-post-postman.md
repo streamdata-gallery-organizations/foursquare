@@ -2277,17 +2277,3 @@
               "mode": "raw"
             },
             "description": "users/search (GET)"
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "bc643f51-86a2-43e4-bdf6-7e38a387200e"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}

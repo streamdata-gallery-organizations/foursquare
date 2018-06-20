@@ -2276,38 +2276,4 @@
             "body": {
               "mode": "raw"
             },
-            "description": "users/search (GET)"
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "5c90187b-c277-4d34-b20f-c0a9aecfb253"
-            }
-          ]
-        },
-        {
-          "id": "44e06288-a69b-4a69-b2f7-103d6bff8b8f",
-          "name": "usersuser-idunfriend",
-          "request": {
-            "url": "http://api.foursquare.com/v2/users/self/update?Content-Type=%7B%7D&photo=%7B%7D&v=%7B%7D",
-            "method": "POST",
-            "body": {
-              "mode": "raw"
-            },
-            "description": "/users/{USER_ID}/unfriend"
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "db3252a8-d597-406d-917f-ac34c99e96a7"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+            "description": "users/sea
