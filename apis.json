@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Foursquare",
+	"description": "This is a repository of foursquare APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/foursquare.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://foursquare.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Foursquare",
+			"x-api-slug": "foursquare",
+			"description": "Foursquare helps you find the perfect places to go with friends. Discover the best food, nightlife, and entertainment in your area.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg",
+			"humanURL": "http://blog.foursquare.com",
+			"baseURL": "https:///",
+			"tags": "Foursquare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/foursquare/master/_listings/foursquare/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Foursquare",
+	"include": [
+		{
+			"name": "Foursquare",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/foursquare/master/_listings/foursquare/apis.yaml"
+		}
+	]
+}
